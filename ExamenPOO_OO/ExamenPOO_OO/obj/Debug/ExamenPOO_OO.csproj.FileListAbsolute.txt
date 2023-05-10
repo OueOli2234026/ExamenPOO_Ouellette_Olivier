@@ -1,0 +1,8 @@
+C:\Users\2234026\Desktop\Devoir\Prog2\ExamenPOO_Ouellette_Olivier\ExamenPOO_OO\ExamenPOO_OO\bin\Debug\ExamenPOO_OO.exe.config
+C:\Users\2234026\Desktop\Devoir\Prog2\ExamenPOO_Ouellette_Olivier\ExamenPOO_OO\ExamenPOO_OO\bin\Debug\ExamenPOO_OO.exe
+C:\Users\2234026\Desktop\Devoir\Prog2\ExamenPOO_Ouellette_Olivier\ExamenPOO_OO\ExamenPOO_OO\bin\Debug\ExamenPOO_OO.pdb
+C:\Users\2234026\Desktop\Devoir\Prog2\ExamenPOO_Ouellette_Olivier\ExamenPOO_OO\ExamenPOO_OO\obj\Debug\ExamenPOO_OO.csproj.AssemblyReference.cache
+C:\Users\2234026\Desktop\Devoir\Prog2\ExamenPOO_Ouellette_Olivier\ExamenPOO_OO\ExamenPOO_OO\obj\Debug\ExamenPOO_OO.csproj.SuggestedBindingRedirects.cache
+C:\Users\2234026\Desktop\Devoir\Prog2\ExamenPOO_Ouellette_Olivier\ExamenPOO_OO\ExamenPOO_OO\obj\Debug\ExamenPOO_OO.csproj.CoreCompileInputs.cache
+C:\Users\2234026\Desktop\Devoir\Prog2\ExamenPOO_Ouellette_Olivier\ExamenPOO_OO\ExamenPOO_OO\obj\Debug\ExamenPOO_OO.exe
+C:\Users\2234026\Desktop\Devoir\Prog2\ExamenPOO_Ouellette_Olivier\ExamenPOO_OO\ExamenPOO_OO\obj\Debug\ExamenPOO_OO.pdb
